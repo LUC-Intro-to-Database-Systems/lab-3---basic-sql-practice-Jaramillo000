@@ -78,3 +78,7 @@ Once you have completed both of the items above, you will need to submit the lin
 ## Lab Resources
 - [W3 Schools SQL tutorial](https://www.w3schools.com/sql/)
 - [Make a ReadMe file Web-based Editor](https://www.makeareadme.com/)
+
+
+
+![image](https://user-images.githubusercontent.com/117416929/204458737-747abc21-4a18-49bb-9006-d032ee941a66.png)
