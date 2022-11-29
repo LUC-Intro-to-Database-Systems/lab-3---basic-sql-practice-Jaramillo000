@@ -119,6 +119,54 @@ VALUES
 (10,	10),
 (6,	11),
 (4,	12);
-client_has_policy
+
+
+
+##selecting all data from clients
+SELECT * from (client); 
+
+
+##update client id 5 name from  Chris Isaac to Chris Pearson
+UPDATE client
+set client_name = 'Chris Pearson'
+WHERE clientID = 5;
+
+#find all policies that have a policy type of 'Home
+Select * From  policy
+where policy_type = 'home' ;
+
+
+#find all policies that have a policy term  of yearly
+Select * From  policy
+where policy_term = 'yearly' ;
+
+## show all clients sorded 
+Select client_name, client_address, client_age
+FROM client
+ORDER BY  client_age DESC;
+
+
+# find the average age from clients tabel
+SELECT AVG(client_age)
+FROM client
+
+#find all clients that are between the ages of 22 and 40
+SELECT client_name, client_age
+FROM client
+WHERE client_age Between 22 AND 40
+
+
+## find all home policies that have a policy limit under $250,000.
+SELECT * FROM policy 
+WHERE policy_type = 'home'
+AND policy_limits <= '$250,000'
+
+
+
+#Find all client's name and address that  contain 'Featherstone' in client address
+SELECT client_name, client_address
+FROM client
+WHERE client_address LIKE '%Featherstone%'
+ORDER BY client_age ASC
 
 
