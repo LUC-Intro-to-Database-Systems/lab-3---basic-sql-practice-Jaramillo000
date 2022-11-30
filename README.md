@@ -80,8 +80,10 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
 <img width="519" alt="image" src="https://user-images.githubusercontent.com/117416929/204699242-18eb9281-346d-49d2-87e6-2cc05abb3c69.png">
 
-14.  Write the SQL command that lists all clients that have a home insurance policy<img width="514" alt="image" src="https://user-
+14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
+![image](https://user-images.githubusercontent.com/117416929/204712171-cad3538a-f685-4028-83f4-ddaf3258f6fc.png)
+
 
 
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
