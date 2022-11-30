@@ -170,3 +170,42 @@ WHERE client_address LIKE '%Featherstone%'
 ORDER BY client_age ASC
 
 
+#Write the SQL command that lists the name, address, and age of clients who are age 35
+# and above and whose address contains the number 8
+SELECT client_name, client_address, client_age
+FROM client
+WHERE client_address like '%8%' and client_age >= 35 ;
+
+
+#. Write the SQL command that returns the total # of policies offered
+SELECT count(policy_type) as total_count
+From policy ;
+
+
+ #Write the SQL command that returns the policy type and the total count of policies by type
+SELECT policy_type, COUNT(*) as 'Count Of Policy'
+FROM policy 
+GROUP BY policy_type 
+
+
+#Write the SQL command that lists all clients that have a home insurance policy
+SELECT *
+FROM client
+Join client_has_policy on client_has_policy.CLIENT_clientID = client.clientID
+Left Join policy on policy.policyID = client_has_policy.POLICY_policyID
+Where policy_type = 'Home' 
+order by clientID asc
+
+# Write the SQL command that lists all of the instances of a 
+# policy where the client ID is equal to #2
+SELECT *
+FROM client
+Join client_has_policy on client_has_policy.CLIENT_clientID = client.clientID
+WHERE clientID = 2
+
+
+#List all clients along with their respective policies.
+SELECT *
+FROM client
+Join client_has_policy on client_has_policy.CLIENT_clientID = client.clientID
+Left Join policy on policy.policyID = client_has_policy.POLICY_policyID
