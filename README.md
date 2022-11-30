@@ -82,7 +82,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
-![image](https://user-images.githubusercontent.com/117416929/204712171-cad3538a-f685-4028-83f4-ddaf3258f6fc.png)
+
+![image](https://user-images.githubusercontent.com/117416929/204712260-d8abaffd-9841-4ab6-9468-96b2ec1da0c0.png)
+
 
 
 
