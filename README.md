@@ -25,18 +25,22 @@ You will record your relationships within this readme file.  When writing down t
 
 
 ### Deliverable 2 - Data Manipulation Language (10 Points)
-Create a file called **lab3.sql** and add the following queries into the file.  You will need to take a screenshot of the rendered output for each command and place a screenshot of your output beneath the example output provided.  Make sure to place a SQL comment above each command identifying the query.  In order to make changes to the data, you may need to change the SQL Editor settings.  You can do this by navigating to EDIT -> SQL Editor -> and unchecking Safe Updates.  It is advised to restart MySQL Workbench after changing this setting.
+Create a file called **lab3.sql** and add the following queries into the file.  You will need to take a screenshot of the rendered output for each command and place a screenshot of your output beneath the example output provided.  Make sure to place a SQL comment above each command identifying the query.  In order to make changes to the data, you may need to change the SQL Editor settings.  You can do this by navigating to EDIT -> SQL Editor -> and unchecking Safe Updates. It is advised to restart MySQL Workbench after changing this setting.
 <br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab2.sql file.  **The data files are listed in the repository for this lab**
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
+![image](https://user-images.githubusercontent.com/117416929/204458737-747abc21-4a18-49bb-9006-d032ee941a66.png)
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
+![image](https://user-images.githubusercontent.com/117416929/204460404-aad45da0-a0f8-4048-9c18-c252cf0c54d6.png)
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
+![image](https://user-images.githubusercontent.com/117416929/204460976-95f1c039-81a1-42a9-b48a-9ddd2e851ccb.png)
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
+![image](https://user-images.githubusercontent.com/117416929/204461199-5569ead3-3c1a-404d-9421-66922d2c4fa3.png)
 6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
@@ -86,7 +90,9 @@ Once you have completed both of the items above, you will need to submit the lin
 ![image](https://user-images.githubusercontent.com/117416929/204460404-aad45da0-a0f8-4048-9c18-c252cf0c54d6.png)
 
 ![image](https://user-images.githubusercontent.com/117416929/204460976-95f1c039-81a1-42a9-b48a-9ddd2e851ccb.png)
+
 ![image](https://user-images.githubusercontent.com/117416929/204461199-5569ead3-3c1a-404d-9421-66922d2c4fa3.png)
+
 ![image](https://user-images.githubusercontent.com/117416929/204462120-6b01b068-a76d-44a1-8e5a-ca73f8ea99f5.png)
 ![image](https://user-images.githubusercontent.com/117416929/204462623-1effdcb4-1a5e-4e94-8c2f-9d91d900ae10.png)
 ![image](https://user-images.githubusercontent.com/117416929/204463444-3f2dec7b-9c9d-4df3-ba0c-2c7d4a706102.png)
@@ -96,6 +102,8 @@ Once you have completed both of the items above, you will need to submit the lin
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/117416929/204694065-b6f25981-544f-4048-9798-e80b40158f73.png">
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/117416929/204697245-75d5c6d2-1709-48db-a7d2-d4adc7e84fbe.png">
+<img width="493" alt="image" src="https://user-images.githubusercontent.com/117416929/204697841-05dce053-4cd7-4d9a-9c88-19c53a903284.png">
+
 
 
 
