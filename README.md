@@ -35,29 +35,51 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
+<img width="410" alt="image" src="https://user-images.githubusercontent.com/117416929/204698621-08687ddc-9e17-4cef-bea5-5eac07a5fb43.png">
+
 
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
+<img width="403" alt="image" src="https://user-images.githubusercontent.com/117416929/204698722-d2f4a84e-894c-4828-b414-f6c9d1566411.png">
+
 
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/117416929/204698772-8d431c8e-5639-4548-992f-c20e43c40dd0.png">
+
 
 6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/117416929/204698832-a9157091-2fbb-4e3b-b026-0866bdd7bbdc.png">
+
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/7.PNG" width="180" alt="output query 7"/>
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/117416929/204698882-4ce73066-4267-40bd-8d54-70df3452759b.png">
+
 8.  Write the SQL command that lists all home policies that have a policy limit under $250,000.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/8.PNG" width="270" alt="output query 8"/>
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/117416929/204699008-8f637959-2500-4f2a-8453-0aebdbd39880.png">
+
 9.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/9.PNG" width="200" alt="output query 9"/>
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/117416929/204699061-66405417-c73b-419b-a9a5-34bf06ec5de4.png">
+
 10.  Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/10.PNG" width="300" alt="output query 10"/>
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/117416929/204699104-79211446-acc3-4f63-8847-ee1f793ee445.png">
+
 11.  Write the SQL command that returns the total # of policies offered
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/11.PNG" width="80" alt="output query 11"/>
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/117416929/204699150-86fcc337-3e46-40c7-8b85-f3267a44c232.png">
+
 12.  Write the SQL command that returns the policy type and the total count of policies by type
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/12.PNG" width="170" alt="output query 12"/>
+<img width="542" alt="image" src="https://user-images.githubusercontent.com/117416929/204699192-ab005ddd-d843-4627-ad2d-d7b012ddb0d6.png">
+
 13.  Write the SQL command that returns the youngest and oldest client
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/117416929/204699242-18eb9281-346d-49d2-87e6-2cc05abb3c69.png">
+
 14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
@@ -86,24 +108,6 @@ Once you have completed both of the items above, you will need to submit the lin
 
 
 
-![image](https://user-images.githubusercontent.com/117416929/204458737-747abc21-4a18-49bb-9006-d032ee941a66.png)
-
-![image](https://user-images.githubusercontent.com/117416929/204460404-aad45da0-a0f8-4048-9c18-c252cf0c54d6.png)
-
-![image](https://user-images.githubusercontent.com/117416929/204460976-95f1c039-81a1-42a9-b48a-9ddd2e851ccb.png)
-
-![image](https://user-images.githubusercontent.com/117416929/204461199-5569ead3-3c1a-404d-9421-66922d2c4fa3.png)
-
-![image](https://user-images.githubusercontent.com/117416929/204462120-6b01b068-a76d-44a1-8e5a-ca73f8ea99f5.png)
-![image](https://user-images.githubusercontent.com/117416929/204462623-1effdcb4-1a5e-4e94-8c2f-9d91d900ae10.png)
-![image](https://user-images.githubusercontent.com/117416929/204463444-3f2dec7b-9c9d-4df3-ba0c-2c7d4a706102.png)
-![image](https://user-images.githubusercontent.com/117416929/204466755-2af07fd1-4b34-4bcc-9042-8647b0cefc51.png)
-![image](https://user-images.githubusercontent.com/117416929/204467098-eeb1587a-715a-4746-8ead-9331117b3d40.png)
-<img width="505" alt="image" src="https://user-images.githubusercontent.com/117416929/204693217-56f94963-4cdf-4833-a022-f1a5d9215e91.png">
-
-<img width="436" alt="image" src="https://user-images.githubusercontent.com/117416929/204694065-b6f25981-544f-4048-9798-e80b40158f73.png">
-<img width="562" alt="image" src="https://user-images.githubusercontent.com/117416929/204697245-75d5c6d2-1709-48db-a7d2-d4adc7e84fbe.png">
-<img width="493" alt="image" src="https://user-images.githubusercontent.com/117416929/204697841-05dce053-4cd7-4d9a-9c88-19c53a903284.png">
 
 
 
