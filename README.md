@@ -29,18 +29,19 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 <br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab2.sql file.  **The data files are listed in the repository for this lab**
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
-![image](https://user-images.githubusercontent.com/117416929/204458737-747abc21-4a18-49bb-9006-d032ee941a66.png)
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/117416929/204698457-4afd667b-61b9-448e-adda-7dfacfce465e.png">
+
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
-![image](https://user-images.githubusercontent.com/117416929/204460404-aad45da0-a0f8-4048-9c18-c252cf0c54d6.png)
+
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
-![image](https://user-images.githubusercontent.com/117416929/204460976-95f1c039-81a1-42a9-b48a-9ddd2e851ccb.png)
+
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
-![image](https://user-images.githubusercontent.com/117416929/204461199-5569ead3-3c1a-404d-9421-66922d2c4fa3.png)
+
 6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
